@@ -1,2 +1,3 @@
-# cyverse-advanced-container-camp-2021
-2021 rendition of the CyVerse Advanced Container Camp
+# CyVerse Advanced Container Camp 2021
+
+2021 rendition of the CyVerse Advanced Container Camp.
